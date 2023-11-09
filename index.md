@@ -17,3 +17,16 @@ This is where HelunaManoa can help. With our Warrior-sourced reviews and simple 
 
 ## Search Courses Page
 <img src="doc/search-course.jpg">
+
+## Write Review Page
+<img src="doc/write-review.jpg">
+This page allows the user to write a review by entering the course title, the code of the course, the instructor's name, the course/instructor rating, and any comments about the course/instructor.
+
+## User Reviews Page
+<img src="doc/user-reviews.jpg">
+This page shows all of the current user's historical reviews. Each field will display the review along with buttons to edit or delete the review.
+
+## Admin Page
+<img src="doc/admin-page.jpg">
+In the case of abusive behavior and trolling, admins have the power to monitor and act on certain review by editing or deleting the entry.
+
