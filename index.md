@@ -20,29 +20,29 @@ This is where HelunaManoa can help. With our Warrior-sourced reviews and simple 
 link
 
 ## Landing Page (Unlogged)
-<img src="doc/landing-unlogged.png">
+<img src="doc/landing-unlogged.png" alt="landing">
 
 ## Landing Page (With Search/Logged In)
-<img src="doc/landing-logged.png">
+<img src="doc/landing-logged.png" alt="landing logged">
 
 ## List/Search Courses Page
-<img src="doc/list-courses.png">
+<img src="doc/list-courses.png" alt="list course">
 
 ## Specific Course Page
-<img src="doc/specific-course.png">
+<img src="doc/specific-course.png" alt="specific">
 
 ## Write Review Page
-<img src="doc/write-review.png">
+<img src="doc/write-review.png" alt="wr">
 This page allows the user to write a review by entering the course title, the code of the course, the instructor's name, the course/instructor rating, and any comments about the course/instructor.
 
 ## Your Reviews Page
-<img src="doc/your-reviews.png">
+<img src="doc/your-reviews.png" alt="yr">
 This page shows all of the current user's historical reviews. Each field will display the review along with buttons to edit or delete the review.
 
 ## Admin List Courses Page
-<img src="doc/list-courses-admin.png">
+<img src="doc/list-courses-admin.png" alt="adminlc">
 In the case of abusive behavior and trolling, admins have the power to monitor and act on certain review by editing or deleting the entry.
 
 ## Admin Add Course Page
-<img src="doc/add-course-admin.png">
+<img src="doc/add-course-admin.png" alt="adminac">
 
