@@ -25,7 +25,7 @@ The user is prompted to log in upon running the application. As of now, Heluna M
 
 ## Landing Page (With Search/Logged In)
 <img src="doc/landing-logged.png" alt="landing logged">
-Once the user logs in, they are taken to the actual landing page, which has a mock-up search bar where users can look for courses and professors.
+Once the user logs in, they are taken to the actual landing page, which has a mock-up search bar where users can look for courses and professors. 
 
 ## List/Search Courses Page
 <img src="doc/list-courses.png" alt="list course">
