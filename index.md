@@ -21,15 +21,19 @@ link
 
 ## Landing Page (Unlogged)
 <img src="doc/landing-unlogged.png" alt="landing">
+The user is prompted to log in upon running the application. As of now, Heluna Manoa has a forest green theme that matches the colors of its affiliated university: the University of Hawaii at Manoa. The background picture is also somewhat of a placeholder and is subject to change in the following iterations of our project.
 
 ## Landing Page (With Search/Logged In)
 <img src="doc/landing-logged.png" alt="landing logged">
+Once the user logs in, they are taken to the actual landing page, which has a mock-up search bar where users can look for courses and professors.
 
 ## List/Search Courses Page
 <img src="doc/list-courses.png" alt="list course">
+This page shows a listing of all courses in the form of a table. The user is able to click on specific courses which lead to their own pages.
 
 ## Specific Course Page
 <img src="doc/specific-course.png" alt="specific">
+This page is a page whose content changes based on the specific course link that was clicked on. It displays the information for that course on its own page rather than in a table with other courses like the list courses page.
 
 ## Write Review Page
 <img src="doc/write-review.png" alt="wr">
@@ -41,8 +45,8 @@ This page shows all of the current user's historical reviews. Each field will di
 
 ## Admin List Courses Page
 <img src="doc/list-courses-admin.png" alt="adminlc">
-In the case of abusive behavior and trolling, admins have the power to monitor and act on certain review by editing or deleting the entry.
+In the case of there being a change in the details of a course listing, admins have the ability to go in and alter or delete course listings in an effort to update the list.
 
 ## Admin Add Course Page
 <img src="doc/add-course-admin.png" alt="adminac">
-
+This page allows admin to update course listings by adding a new course to the course collection.
