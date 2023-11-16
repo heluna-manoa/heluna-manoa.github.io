@@ -21,11 +21,11 @@ link
 
 ## Landing Page (Unlogged)
 <img src="doc/landing-unlogged.png" alt="landing">
-The user is prompted to log in upon running the application. As of now, Heluna Manoa has a forest green theme that matches the colors of its affiliated university: the University of Hawaii at Manoa. The background picture is also somewhat of a placeholder and is subject to change in the following iterations of our project.
+As of now, Heluna Manoa has a forest green theme that matches the colors of its affiliated university: the University of Hawaii at Manoa. The background picture is also somewhat of a placeholder and is subject to change in the following iterations of our project. The search bars are mock-ups that will be able to search by course and professor.
 
 ## Landing Page (With Search/Logged In)
 <img src="doc/landing-logged.png" alt="landing logged">
-Once the user logs in, they are taken to the actual landing page, which has a mock-up search bar where users can look for courses and professors. 
+Once the user logs in, they are taken to the actual landing page, which now has an update navigation bar with several options.
 
 ## List/Search Courses Page
 <img src="doc/list-courses.png" alt="list course">
