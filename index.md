@@ -17,7 +17,7 @@ This is where HelunaManoa can help. With our Warrior-sourced reviews and simple 
 - [M1 Project page](https://github.com/orgs/heluna-manoa/projects/1)
 - [Project Presentation](https://docs.google.com/presentation/d/1cNOeQgEP03B-rQ20OXL9z2knQaNhdSBpdU4lwtChcpQ/edit#slide=id.g298e20f8316_1_18)
 ## Deployment
-link
+[Website!](https://helunamanoa.info)
 
 ## Landing Page (Unlogged)
 <img src="doc/landing-unlogged.png" alt="landing">
