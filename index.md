@@ -26,7 +26,7 @@ This is the [M1 Project page](https://github.com/orgs/heluna-manoa/projects/1). 
 This is the [M2 Project page](https://github.com/orgs/heluna-manoa/projects/2). We are looking to get the UI improved (no more black text over dark images). Additionally, we will be adding new pages for administrators and creating a better way to submit forms.
 
 ## Deployment
-Here is our website: https://helunamanoa.info
+Here is our website: [https://helunamanoa.info](https://helunamanoa.info)
 
 When writing a review, you need to interact with the anonymous checkbox to submit it. It's a bug that'll be fixed by next milestone. Most everything else should be fully functional.
 
