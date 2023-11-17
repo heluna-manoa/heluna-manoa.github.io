@@ -5,19 +5,30 @@
 Ever had to make a difficult choice between two courses (or professors) with no access to any helpful information? Maybe the professor is a graduate student, or maybe they have close to no teaching experience at Manoa, so RateMyProfessor doesn't display them.
 
 This is where HelunaManoa can help. With our Warrior-sourced reviews and simple interface, you will be able to gain easy access to information that cannot be found on national websites.
+
 ## Team Members
-- Carson Fu
-- Kurt Kimura
-- Cade Kane
-- Zeb Lakey
-- Ryan Seng
-## Links
-- [Github Organization](https://github.com/heluna-manoa)
-- [Team Contract](https://docs.google.com/document/d/12twXzM_kbYR9SQWyv-C6Nzfe04kZUe1oB3TTHs8LCSo/edit)
-- [M1 Project page](https://github.com/orgs/heluna-manoa/projects/1)
-- [Project Presentation](https://docs.google.com/presentation/d/1cNOeQgEP03B-rQ20OXL9z2knQaNhdSBpdU4lwtChcpQ/edit#slide=id.g298e20f8316_1_18)
+- [Carson Fu](https://github.com/CarsonFu)
+- [Kurt Kimura](https://github.com/KurtKimura02)
+- [Cade Kane](https://github.com/cadekane)
+- [Zeb Lakey](https://github.com/zeb1283)
+- [Ryan Seng](https://github.com/ryanseng32)
+
+## Github Organization
+We came together at Team Five Guys to create a website that we all believed in. Our repositories are housed within this [Github Organization.](https://github.com/heluna-manoa) You'll find our website in heluna-manoa and this website as heluna-manoa.github.io.
+
+## Team Contract
+This is our [Team Contract](https://docs.google.com/document/d/12twXzM_kbYR9SQWyv-C6Nzfe04kZUe1oB3TTHs8LCSo/edit). We did not consult a lawyer.
+
+## M1 Project Page
+This is the [M1 Project page](https://github.com/orgs/heluna-manoa/projects/1). Here you'll find all of what we worked on in the first week. Overall, we mainly focused on the backend of the site and made sure everything was properly communicating.
+
+## M2 Project Page
+This is the [M2 Project page](https://github.com/orgs/heluna-manoa/projects/2). We are looking to get the UI improved (no more black text over dark images). Additionally, we will be adding new pages for administrators and creating a better way to submit forms.
+
 ## Deployment
-[Website!](https://helunamanoa.info)
+Here is our website: https://helunamanoa.info
+
+When writing a review, you need to interact with the anonymous checkbox to submit it. It's a bug that'll be fixed by next milestone. Most everything else should be fully functional.
 
 ## Landing Page (Unlogged)
 <img src="doc/landing-unlogged.png" alt="landing">
