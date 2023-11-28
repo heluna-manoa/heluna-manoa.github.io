@@ -3,3 +3,4 @@ plugins:
   - jekyll-remote-theme
 title: Heluna Manoa
 description: Write Reviews for UH Manoa Courses and Professors
+logo: /doc/helunaManoaLogo.png
