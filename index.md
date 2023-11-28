@@ -25,8 +25,14 @@ This is the [M1 Project page](https://github.com/orgs/heluna-manoa/projects/1). 
 ## M2 Project Page
 This is the [M2 Project page](https://github.com/orgs/heluna-manoa/projects/2). We are looking to get the UI improved (no more black text over dark images). Additionally, we will be adding new pages for administrators and creating a better way to submit forms.
 
+## M3 Project Page
+This is the [M3 Project page](https://github.com/orgs/heluna-manoa/projects/3).
+We are looking to deploy several improvements to the functionality and look of the project. 
+
 ## Deployment
 Here is our website: [https://helunamanoa.info](https://helunamanoa.info)
+
+# User Guide
 
 ## Landing Page (Unlogged)
 ### V1:
@@ -149,3 +155,10 @@ Now is fully functional and adds to one collection/updates another.
 
 #### V1 LEGACY:
 This page allows admin to update course listings by adding a new course to the course collection.
+
+# Developer Guide
+
+The first step to developing here is to download [Meteor](https://docs.meteor.com/install.html).
+
+Clone the project to your local machine via GitHub Desktop. Open a terminal window, cd to /heluna-manoa/app, and run the script 
+    meteor npm run start.
