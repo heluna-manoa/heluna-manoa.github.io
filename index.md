@@ -234,5 +234,8 @@ This page allows admin to update course listings by adding a new course to the c
 
 The first step to developing here is to download [Meteor](https://docs.meteor.com/install.html).
 
-Clone the project to your local machine via GitHub Desktop. Open a terminal window, cd to /heluna-manoa/app, and run the script 
-    meteor npm run start.
+Clone the project to your local machine via GitHub Desktop. Open a terminal window, cd to /heluna-manoa/app, and run the scripts meteor npm install and meteor npm run start.
+
+# Community Feedback
+
+Everyone loves it! (we haven't gotten all our feedback yet)
