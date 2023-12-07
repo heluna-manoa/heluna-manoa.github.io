@@ -43,7 +43,13 @@ Here is our website: [https://helunamanoa.info](https://helunamanoa.info)
 ### V2:
 <img src="doc/landing-unlogged2.png" alt="landing">
 
-#### V2 UPDATE:
+### V3:
+<img src="doc/landing-unlogged3.png" alt="landing">
+
+#### V3 UPDATE:
+Version 3 adds reviews that were recently submitted by users to the home landing page when the user is not logged in. The navbar is now a lot cleaner and opaque. The default footer has now been removed to give more space for the content.
+
+#### V2 LEGACY:
 Version 2 of the un-logged landing page has all the same features as the first, but with readable font colors and a revamped look. The search bars will work once the reviews properly display when not logged in.
 
 #### V1 LEGACY:
@@ -57,7 +63,13 @@ As of now, Heluna Manoa has a forest green theme that matches the colors of its 
 ### V2
 <img src="doc/landing-logged2.png" alt="landing logged">
 
-#### V2 UPDATE:
+### V3:
+<img src="doc/landing-logged3.png" alt="landing logged">
+
+#### V3 UPDATE:
+Now that the user has logged in, they are able to see their recent reviews and professors.
+
+#### V2 LEGACY:
 The logged in landing is much improved, with your reviews being displayed under the search bar (which is fully functional). 
 
 #### V1 LEGACY:
@@ -70,11 +82,25 @@ Once the user logs in, they are taken to the actual landing page, which now has 
 ### V2:
 <img src="doc/list-courses2.png" alt="list course">
 
-#### V2 UPDATE:
+### V3:
+<img src="doc/list-courses3.png" alt="list course">
+
+#### V3 UPDATE:
+The list courses page has remained unchanged, just some minor bug fixes and adding an average rating column.
+
+#### V2 LEGACY:
 This remains largely the same, other than the website-wide style updates.
 
 #### V1 LEGACY:
 This page shows a listing of all courses in the form of a table. The user is able to click on specific courses which lead to their own pages.
+
+## *NEW* List Professors
+
+### V3
+<img src="doc/list-professors3.png" alt="list professors">
+
+#### V3 UPDATE
+You may now view all the professors, along with the classes they teach.
 
 ## Specific Course Page
 
@@ -83,6 +109,12 @@ This page shows a listing of all courses in the form of a table. The user is abl
 
 ### V2:
 <img src="doc/specific-course2.png" alt="specific">
+
+### V3:
+<img src="doc/specific-course3.png" alt="specific">
+
+#### V3 UPDATE:
+Clicking a course page now looks much cleaner with white text and the removal of the edit and delete buttons. 
 
 #### V2 UPDATE:
 Still need to work on the CSS a little bit, but reviews now display on the specific course page. This is what the search bar will display when a query is sent and is what comes up when a course is clicked on.
@@ -98,7 +130,13 @@ This page is a page whose content changes based on the specific course link that
 ### V2:
 <img src="doc/write-review2.png" alt="wr">
 
-#### V2 UPDATE:
+### V3:
+<img src="doc/write-review3.png" alt="wr">
+
+#### V3 UPDATE:
+Write Review has not changed much at all. Only the styling and font has changed which reflects all other pages.
+
+#### V2 LEGACY:
 Nothing much here. CSS updates and the anonymous field now works properly.
 
 #### V1 LEGACY:
@@ -112,16 +150,30 @@ This page allows the user to write a review by entering the course title, the co
 ### V2:
 <img src="doc/your-reviews2.png" alt="yr">
 
+### V3:
+<img src="doc/your-reviews3.png" alt="yr">
+
+#### V3 UPDATE:
+The personal review cards has not changed much, however it now displays if you checked the box to remain anonymous when submitting your review. Deleting your review now pushes a warning, asking for confirmation of deletion.
+
 #### V2 UPDATE:
 The review cards (as seen on other website areas) now have edit and delete fields. The most important update of the project thus far was also pushed (the rating now displays a certain number of stars).
 
 #### V1 LEGACY:
 This page shows all the current user's historical reviews. Each field will display the review along with buttons to edit or delete the review.
 
-## *NEW:* Edit Review Page
+## Edit Review Page
 
+### V2:
 <img src="doc/edit-review.png" alt="edit">
 
+### V3:
+<img src="doc/edit-review3.png" alt="edit review">
+
+#### V3 UPDATE:
+This page has not changed much at all however, once submitting an edit, it now brings you back to your user review page.
+
+#### V2 LEGACY:
 This is what the edit button on the previous page leads to. It allows the user to edit the review and updates the database.
 
 ## Admin List Courses Page
@@ -132,16 +184,30 @@ This is what the edit button on the previous page leads to. It allows the user t
 ### V2:
 <img src="doc/list-courses-admin2.png" alt="adminlc">
 
-#### V2 UPDATE:
+### V3:
+<img src="doc/admin-page3.png" alt="admin controls">
+
+#### V3 UPDATE:
+The admin pages have been consolidated into just one admin panel where they can edit, add course, and add professor, along with removing courses.
+
+#### V2 LEGACY:
 There is now an add course button. Probably going to remove the add course from the navbar.
 
 #### V1 LEGACY:
 In the case of there being a change in the details of a course listing, admins have the ability to go in and alter or delete course listings in an effort to update the list.
 
-## *NOT NEW BUT DIDN'T INCLUDE LAST TIME:* Edit Course Page
+## Edit Course Page
 
+### V2
 <img src="doc/edit-course.png" alt="edit">
 
+### V3:
+<img src="doc/edit-course3.png" alt="edit course">
+
+#### V3 UPDATE:
+The admin edit course page has remained the same.
+
+#### V2 LEGACY
 Allows the admin to edit the course.
 
 ## Admin Add Course Page
@@ -152,7 +218,13 @@ Allows the admin to edit the course.
 ### V2:
 <img src="doc/add-course-admin2.png" alt="adminac">
 
-#### V2 UPDATE:
+### V3:
+<img src="doc/add-course-admin3.png" alt="adminac">
+
+#### V3 UPDATE:
+Admin Add Course has remained the same.
+
+#### V2 LEGACY:
 Now is fully functional and adds to one collection/updates another.
 
 #### V1 LEGACY:
