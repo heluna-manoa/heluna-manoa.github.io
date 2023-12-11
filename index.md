@@ -238,4 +238,26 @@ Clone the project to your local machine via GitHub Desktop. Open a terminal wind
 
 # Community Feedback
 
-Everyone loves it! (we haven't gotten all our feedback yet)
+We had 5 community members test out Heluna Mānoa.
+
+The feedback for the website encompasses various suggestions and positive comments:
+
+1. **Enlarged Text Box:** Users want a bigger text box for reviews to ensure visibility while typing.
+
+2. **Account Creation Error:** There's an issue with an error message when initially creating an account; the page appears to not exist.
+
+3. **Course Categorization:** Suggested improvements include organizing courses alphabetically and by field of study for easier navigation and finding relevant majors.
+
+4. **Font Size at the Top:** Feedback mentions that the font at the top of the website needs to be larger due to excessive empty space.
+
+5. **Star Rating System:** Users want a more detailed star rating system, possibly with the inclusion of half stars.
+
+6. **Review Submission:** Upon submitting a review, users want the page to stay on the same page rather than navigating elsewhere.
+
+7. **Clarity and Functionality:** Overall, the site works well and is clear, with no specific issues noted by the reviewers.
+
+8. **Rating Distribution:** The website received ratings of 5, 4, 3, 4, and 4 from different users.
+
+9. **Positive Comments:** Positive comments include praise for Zeb's work, a compliment on the site, and a suggestion for adding an FAQ or clearer directions for enhanced clarity.
+
+To improve the website, consider implementing these suggestions: enlarging the text box for reviews, resolving the account creation error, reorganizing course listings, adjusting font size at the top, enhancing the star rating system, optimizing the review submission process, and possibly adding an FAQ or clearer instructions for users. Overall, the site has received positive feedback but could benefit from these enhancements.
