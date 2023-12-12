@@ -236,6 +236,10 @@ The first step to developing here is to download [Meteor](https://docs.meteor.co
 
 Clone the project to your local machine via GitHub Desktop. Open a terminal window, cd to /heluna-manoa/app, and run the scripts meteor npm install and meteor npm run start.
 
+The website utilizes 3 MongoDB collections, called Courses, Professors, and Reviews. Each of these are housed within the imports/api directory. Every collection is modified by different types of input forms, that being Write a Review, Add a Course, Add a Professor, and Edit a Course.
+
+Website components are housed under imports/ui/components, and include the navbar and search bars for courses and professors. Website pages are housed under imports/ui/pages.
+
 # Community Feedback
 
 We had 5 community members test out Heluna Mānoa.
@@ -258,6 +262,4 @@ The feedback for the website encompasses various suggestions and positive commen
 
 8. **Rating Distribution:** The website received ratings of 5, 4, 3, 4, and 4 from different users.
 
-9. **Positive Comments:** Positive comments include praise for Zeb's work, a compliment on the site, and a suggestion for adding an FAQ or clearer directions for enhanced clarity.
-
-To improve the website, consider implementing these suggestions: enlarging the text box for reviews, resolving the account creation error, reorganizing course listings, adjusting font size at the top, enhancing the star rating system, optimizing the review submission process, and possibly adding an FAQ or clearer instructions for users. Overall, the site has received positive feedback but could benefit from these enhancements.
+To improve the website, we would consider implementing the following: enlarging the text box for reviews, resolving the account creation error, reorganizing course listings, adjusting font size at the top, enhancing the star rating system, optimizing the review submission process, and possibly adding an FAQ or clearer instructions for users. The website has received overall positive reviews.
